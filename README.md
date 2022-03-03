@@ -65,8 +65,6 @@ Edit the following variables in the [appsettings.json](TailwindTraders.Website/S
 
 # Deploy as part of AKS (Azure Kubernetes Service)
 
-English Walnuts added 
-
 Please follow these steps to deploy the web in the same AKS where Backend is running instead of deploying to an App Service.
 
 **Note**: Website supports [Devspaces deployment](./Documents/Devspaces.md).
