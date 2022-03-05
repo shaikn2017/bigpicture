@@ -3,12 +3,14 @@
 ![Tailwind Traders Website](Documents/Images/Website.png)
 now with branch protection on main!
 
+Shaikn trying to protect the main branch 
+
 [![Build status](https://dev.azure.com/TailwindTraders/Website/_apis/build/status/Website-CI)](https://dev.azure.com/TailwindTraders/Website/_build?definitionId=22)
 
 You can take a look at our live running website following this address: [https://tailwindtraders.com](https://tailwindtraders.com)
-
+ADDING WALLNUT
 # Repositories
-
+Me and My Github
 For this demo reference, we built several consumer and line-of-business applications and a set of backend services. You can find all repositories in the following locations:
 
 - [Tailwind Traders](https://github.com/Microsoft/TailwindTraders)
@@ -19,6 +21,8 @@ For this demo reference, we built several consumer and line-of-business applicat
 - [Mobile (Xamarin Forms 4.0)](https://github.com/Microsoft/TailwindTraders-Mobile)
 
 # Deploy to Azure
+
+Walnuts
 
 With the following ARM template you can automate the creation of the resources for this website.
 
@@ -60,6 +64,8 @@ Edit the following variables in the [appsettings.json](TailwindTraders.Website/S
 > Support email is the account which will receive a Flow bot message with the meeting details on Microsoft Teams.
 
 # Deploy as part of AKS (Azure Kubernetes Service)
+
+English Walnuts added 
 
 Please follow these steps to deploy the web in the same AKS where Backend is running instead of deploying to an App Service.
 
