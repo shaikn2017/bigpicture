@@ -8,6 +8,7 @@ using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 using Tailwind.Traders.Web.Standalone;
 //This is test for the GITHUB Actions Demo
+//Second demo for GITHUB actions
 namespace Tailwind.Traders.Web
 {
     public class Startup
